@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/cynault/todo/code/algorithm/build",
+  "command": "/usr/bin/g++ -I/home/cynault/todo/code/algorithm/inc -I/home/cynault/todo/code/algorithm/third_party/fmt/include -g -std=gnu++17 -o CMakeFiles/leetcodeCPP.dir/src/main.cpp.o -c /home/cynault/todo/code/algorithm/src/main.cpp",
+  "file": "/home/cynault/todo/code/algorithm/src/main.cpp",
+  "output": "CMakeFiles/leetcodeCPP.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/cynault/todo/code/algorithm/build",
+  "command": "/usr/bin/g++ -I/home/cynault/todo/code/algorithm/inc -I/home/cynault/todo/code/algorithm/third_party/fmt/include -g -std=gnu++17 -o third_party/fmt/CMakeFiles/fmt.dir/src/format.cc.o -c /home/cynault/todo/code/algorithm/third_party/fmt/src/format.cc",
+  "file": "/home/cynault/todo/code/algorithm/third_party/fmt/src/format.cc",
+  "output": "third_party/fmt/CMakeFiles/fmt.dir/src/format.cc.o"
+},
+{
+  "directory": "/home/cynault/todo/code/algorithm/build",
+  "command": "/usr/bin/g++ -I/home/cynault/todo/code/algorithm/inc -I/home/cynault/todo/code/algorithm/third_party/fmt/include -g -std=gnu++17 -o third_party/fmt/CMakeFiles/fmt.dir/src/os.cc.o -c /home/cynault/todo/code/algorithm/third_party/fmt/src/os.cc",
+  "file": "/home/cynault/todo/code/algorithm/third_party/fmt/src/os.cc",
+  "output": "third_party/fmt/CMakeFiles/fmt.dir/src/os.cc.o"
+}
+]
